@@ -50,7 +50,7 @@ a:hover {
    
 }
 .hello h2:hover{
-    color: #f853a3b2;
+    color: #CC005F;
 }
 .name{
      font-size: 100px;
@@ -82,7 +82,7 @@ i{
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #CC005F;
     margin: 20px 0;
     font-size: 40px;
 }
@@ -135,3 +135,39 @@ i{
     display: flex;  
     align-items: center;
     gap: 100px;
+}
+
+.about{
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0;
+}
+.about h1{
+     color: #CC005F;
+     font-size: 40px;
+}
+
+.profile{
+    margin: 20px 0;
+    width: 200px;
+    border-radius:90% ;
+}
+
+
+.abt-discription{
+ font-size: 20px;
+}
+
+
+footer{
+     display: flex;  
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    line-height: 40px;
+}
